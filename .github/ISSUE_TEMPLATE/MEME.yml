@@ -1,5 +1,5 @@
-name: "Propose your meme"
-description: "Make a proposal for publication"
+name: Propose your meme
+description: Make a proposal for publication
 labels:
   - proposal
 body:
@@ -8,7 +8,7 @@ body:
       value: "Thank you for taking the time to make a proposal!\n"
   - type: checkboxes
     attributes:
-      label: "Preflight checklist"
+      label: Preflight checklist
       options:
         - label: "I agree to follow this project's [Code of
             Conduct](https://github.com/devpolo/community/blob/main/CODE_OF_CONDUCT.md)."
@@ -19,9 +19,10 @@ body:
   - type: textarea
     attributes:
       label: Your proposal
-      description: |
+      description: Describe your proposal
+      placeholder: |
         Header? Description? Explanation? Anything that will give us more context about your proposal!
 
-        Tip: You can attach images, videos or GIFs by clicking this area to highlight it and then dragging files in.
+        You can attach images, videos or GIFs by clicking this area to highlight it and then dragging files in.
     validations:
-      required: false
+      required: true
