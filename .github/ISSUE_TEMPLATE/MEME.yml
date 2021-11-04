@@ -2,6 +2,8 @@ name: Propose your meme
 description: Make a proposal for publication
 labels:
   - proposal
+assignees:
+  - devpolo
 body:
   - type: markdown
     attributes:
