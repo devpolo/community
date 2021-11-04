@@ -28,3 +28,17 @@ body:
         You can attach images, videos or GIFs by clicking this area to highlight it and then dragging files in.
     validations:
       required: true
+  - type: input
+    attributes:
+      label: Source / Credit / Author
+      description: Please, credit the proposal your are sharing. It can be you or someone else.
+      placeholder: vvv.my-source.com/this-proposal | @myself
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Link to your LinkedIn profile
+      description: your proposal is likely to be posted on LinkedIn. I would love to thank you by tagging you.
+      placeholder: https://www.linkedin.com/in/pcrussaire/
+    validations:
+      required: false
