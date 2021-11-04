@@ -38,7 +38,7 @@ body:
   - type: input
     attributes:
       label: Link to your LinkedIn profile
-      description: your proposal is likely to be posted on LinkedIn. I would love to thank you by tagging you.
+      description: Your proposal is likely to be posted on LinkedIn. I would love to thank you by tagging you.
       placeholder: https://www.linkedin.com/in/pcrussaire/
     validations:
       required: false
