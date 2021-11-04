@@ -1,1 +1,1 @@
-# Contributing to @devpolo Community
+# Contributing
