@@ -32,7 +32,7 @@ body:
     attributes:
       label: Source / Credit / Author
       description: Please, credit the proposal your are sharing. It can be you or someone else.
-      placeholder: vvv.my-source.com/this-proposal | @myself
+      placeholder: wvw.my-source.com/this-proposal | @myself
     validations:
       required: true
   - type: input
