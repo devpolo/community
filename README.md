@@ -9,7 +9,7 @@ It's now possible to help.
 
 ### 🎆 Propose a meme
 
-It's simple as [opening a new issue](https://github.com/devpolo/community/issues/new/choose)
+It's simple as [opening a new issue](https://github.com/devpolo/community/issues/new/choose).
 
 ### ⭐️ Give this project a star
 
