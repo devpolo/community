@@ -1,8 +1,10 @@
 # 👋 Hello there
 
-I know that many of you would love to contribute to those ([JavaScript Developer](https://www.linkedin.com/company/javascript-developer) | [Web Developer](https://www.linkedin.com/company/i-web-developer)) LinkedIn pages by posting awesome memes:
+It's now possible to contribute to those ([JavaScript Developer](https://www.linkedin.com/company/javascript-developer) | [Web Developer](https://www.linkedin.com/company/i-web-developer)) LinkedIn pages by posting awesome memes:
 
-It's now possible to help.
+Feel free to share your ideas.
+
+_Unfortunately and due to the purpose of those pages, I would never share any kind of promotion at this point._
 
 ### 🎆 Propose a meme
 
