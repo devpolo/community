@@ -1,6 +1,6 @@
 # 👋 Hello there
 
-It's now possible to contribute to those ([JavaScript Developer](https://www.linkedin.com/company/javascript-developer) | [Web Developer](https://www.linkedin.com/company/i-web-developer)) LinkedIn pages by posting awesome memes:
+It's now possible to contribute to JS and Web Developer LinkedIn pages by posting awesome memes:
 
 Feel free to share your ideas.
 
